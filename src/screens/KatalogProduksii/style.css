@@ -1,0 +1,128 @@
+.katalog-produksii {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.katalog-produksii .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 768px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.katalog-produksii .overlap {
+  height: 828px;
+  left: -41px;
+  position: absolute;
+  top: -60px;
+  width: 1481px;
+}
+
+.katalog-produksii .rectangle {
+  background-color: #fafafa;
+  height: 685px;
+  left: 41px;
+  position: absolute;
+  top: 143px;
+  width: 1440px;
+}
+
+.katalog-produksii .element-6 {
+  height: 768px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1444px;
+}
+
+.katalog-produksii .h-1 {
+  color: #191919;
+  font-family: "Helvetica-Bold", Helvetica;
+  font-size: 69.5px;
+  font-weight: 700;
+  left: 147px;
+  letter-spacing: 0;
+  line-height: 73.2px;
+  position: absolute;
+  top: 194px;
+  width: 467px;
+}
+
+.katalog-produksii .p {
+  color: #000000;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 147px;
+  letter-spacing: 0;
+  line-height: 31.2px;
+  position: absolute;
+  top: 364px;
+  width: 381px;
+}
+
+.katalog-produksii .img {
+  height: 39px;
+  left: 84px;
+  position: absolute;
+  top: 220px;
+  width: 39px;
+}
+
+.katalog-produksii .frame-2 {
+  height: 192px;
+  left: 617px;
+  position: absolute;
+  top: 332px;
+  width: 188px;
+}
+
+.katalog-produksii .rectangle-2 {
+  height: 386px;
+  left: 633px;
+  object-fit: cover;
+  position: absolute;
+  top: 311px;
+  width: 360px;
+}
+
+.katalog-produksii .rectangle-3 {
+  height: 386px;
+  left: 1044px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 360px;
+}
+
+.katalog-produksii .text-wrapper-2 {
+  color: #000000;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 1116px;
+  letter-spacing: 0;
+  line-height: 31.2px;
+  position: absolute;
+  text-align: right;
+  top: 584px;
+  width: 300px;
+}
+
+.katalog-produksii .text-wrapper-3 {
+  color: #000000;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 611px;
+  letter-spacing: 0;
+  line-height: 31.2px;
+  position: absolute;
+  top: 243px;
+  width: 300px;
+}

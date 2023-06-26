@@ -1,0 +1,1 @@
+export { UralAtomMainPage } from "./UralAtomMainPage";

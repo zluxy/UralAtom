@@ -1,0 +1,121 @@
+.header {
+  height: 145px;
+  width: 1440px;
+}
+
+.header .overlap-group {
+  height: 113px;
+  position: relative;
+  top: 29px;
+}
+
+.header .div {
+  background-color: #ffffff;
+  height: 83px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.header .ural-atom-logo {
+  height: 113px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 197px;
+}
+
+.header .element {
+  color: #000000;
+  font-family: "Arvo", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 1241px;
+  letter-spacing: 0.26px;
+  line-height: 16.2px;
+  position: absolute;
+  top: 14px;
+}
+
+.header .text-wrapper {
+  color: #000000;
+  font-family: "Arvo", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.26px;
+  line-height: 16.2px;
+}
+
+.header .span {
+  font-size: 15px;
+  letter-spacing: 0.3px;
+  line-height: 18.7px;
+}
+
+.header .frame {
+  align-items: flex-start;
+  display: flex;
+  gap: 64px;
+  left: 391px;
+  position: absolute;
+  top: 28px;
+  width: fit-content;
+}
+
+.header .element-2 {
+  color: #121212;
+  font-family: "Arvo", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.16px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .element-3 {
+  color: #121212;
+  font-family: "Arvo", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.16px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .element-4 {
+  color: #121212;
+  font-family: "Arvo", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.16px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .element-5 {
+  color: #121212;
+  font-family: "Arvo", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.16px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}

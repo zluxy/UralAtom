@@ -1,0 +1,1 @@
+export { Kontaktnaya } from "./Kontaktnaya";

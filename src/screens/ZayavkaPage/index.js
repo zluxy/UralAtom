@@ -1,0 +1,1 @@
+export { ZayavkaPage } from "./ZayavkaPage";

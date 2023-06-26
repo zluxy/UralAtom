@@ -1,0 +1,177 @@
+.kontaktnaya {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.kontaktnaya .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 768px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.kontaktnaya .about {
+  height: 1029px;
+  left: -209px;
+  position: absolute;
+  top: -60px;
+  width: 1920px;
+}
+
+.kontaktnaya .overlap {
+  height: 849px;
+  left: 209px;
+  position: relative;
+  top: 60px;
+  width: 1456px;
+}
+
+.kontaktnaya .rectangle {
+  height: 768px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.kontaktnaya .rectangle-2 {
+  background: linear-gradient(180deg, rgb(89, 86, 233) 0%, rgba(217, 217, 217, 0) 100%);
+  height: 730px;
+  left: 146px;
+  position: absolute;
+  top: 66px;
+  width: 1310px;
+}
+
+.kontaktnaya .about-design {
+  height: 789px;
+  left: 763px;
+  position: absolute;
+  top: 60px;
+  width: 637px;
+}
+
+.kontaktnaya .overlap-group-2 {
+  height: 708px;
+  position: relative;
+  width: 633px;
+}
+
+.kontaktnaya .group {
+  height: 375px;
+  left: 31px;
+  position: absolute;
+  top: 48px;
+  width: 419px;
+}
+
+.kontaktnaya .img {
+  height: 289px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 419px;
+  width: 401px;
+}
+
+.kontaktnaya .rectangle-3 {
+  height: 487px;
+  left: 260px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 373px;
+}
+
+.kontaktnaya .rectangle-4 {
+  background-color: #5956e9;
+  border-radius: 10px;
+  height: 114px;
+  left: -1px;
+  position: absolute;
+  top: 179px;
+  transform: rotate(-90deg);
+  width: 281px;
+}
+
+.kontaktnaya .element-6 {
+  color: #ffffff;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 55px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: -0.94px;
+  line-height: 60px;
+  position: absolute;
+  top: 267px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+  width: 85px;
+}
+
+.kontaktnaya .years-of-experience {
+  color: #ffffff;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 174px;
+  transform: rotate(-90deg);
+  width: 132px;
+}
+
+.kontaktnaya .about-2 {
+  height: 435px;
+  left: 110px;
+  position: absolute;
+  top: 176px;
+  width: 688px;
+}
+
+.kontaktnaya .h-1 {
+  color: #ffffff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: -1.09px;
+  line-height: 60px;
+  position: absolute;
+  top: 0;
+  width: 626px;
+}
+
+.kontaktnaya .p {
+  color: #ffffff;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 152px;
+  width: 684px;
+}
+
+.kontaktnaya .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.kontaktnaya .text-wrapper-3 {
+  line-height: 67px;
+}

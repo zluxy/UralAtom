@@ -1,0 +1,133 @@
+.o-nas-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.o-nas-page .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 768px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.o-nas-page .overlap {
+  background-color: #fafafa;
+  height: 685px;
+  left: -33px;
+  position: absolute;
+  top: 70px;
+  width: 1568px;
+}
+
+.o-nas-page .img {
+  height: 179px;
+  left: 74px;
+  position: absolute;
+  top: 297px;
+  width: 48px;
+}
+
+.o-nas-page .frame-2 {
+  height: 108px;
+  left: 1441px;
+  position: absolute;
+  top: 60px;
+  width: 32px;
+}
+
+.o-nas-page .overlap-2 {
+  height: 479px;
+  left: 903px;
+  position: absolute;
+  top: 78px;
+  width: 520px;
+}
+
+.o-nas-page .frame-3 {
+  height: 280px;
+  left: 193px;
+  position: absolute;
+  top: 186px;
+  width: 327px;
+}
+
+.o-nas-page .frame-4 {
+  height: 192px;
+  left: 109px;
+  position: absolute;
+  top: 0;
+  width: 188px;
+}
+
+.o-nas-page .ellipse {
+  height: 429px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 408px;
+}
+
+.o-nas-page .text {
+  height: 542px;
+  left: 185px;
+  position: absolute;
+  top: 71px;
+  width: 633px;
+}
+
+.o-nas-page .group {
+  height: 542px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 577px;
+}
+
+.o-nas-page .h-1 {
+  color: #191919;
+  font-family: "Helvetica-Bold", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 56.5px;
+  position: absolute;
+  top: 0;
+  width: 573px;
+}
+
+.o-nas-page .p {
+  color: #808285;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 200px;
+  width: 573px;
+}
+
+.o-nas-page .text-wrapper-2 {
+  line-height: 32px;
+}
+
+.o-nas-page .text-wrapper-3 {
+  font-size: 16px;
+  line-height: 37px;
+}
+
+.o-nas-page .frame-5 {
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 39px;
+}

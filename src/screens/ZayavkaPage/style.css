@@ -1,0 +1,228 @@
+.zayavka-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.zayavka-page .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 768px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.zayavka-page .group {
+  background-color: #5956e9;
+  height: 685px;
+  left: -210px;
+  position: absolute;
+  top: 83px;
+  width: 1920px;
+}
+
+.zayavka-page .overlap {
+  background-image: url(../../../static/img/frame.svg);
+  background-size: 100% 100%;
+  height: 682px;
+  left: 210px;
+  position: relative;
+  top: 3px;
+  width: 1440px;
+}
+
+.zayavka-page .group-2 {
+  height: 401px;
+  left: 469px;
+  position: relative;
+  top: 105px;
+  width: 536px;
+}
+
+.zayavka-page .email-free-social {
+  height: 60px;
+  left: 233px;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.zayavka-page .group-3 {
+  height: 329px;
+  left: 0;
+  position: absolute;
+  top: 72px;
+  width: 536px;
+}
+
+.zayavka-page .overlap-group-wrapper {
+  height: 63px;
+  left: 0;
+  position: absolute;
+  top: 160px;
+  width: 538px;
+}
+
+.zayavka-page .div-wrapper {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e1e1e1;
+  height: 63px;
+  position: relative;
+  width: 536px;
+}
+
+.zayavka-page .text-wrapper-2 {
+  color: #808285;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.zayavka-page .overlap-wrapper {
+  height: 63px;
+  left: 0;
+  position: absolute;
+  top: 266px;
+  width: 538px;
+}
+
+.zayavka-page .overlap-2 {
+  height: 63px;
+  position: relative;
+  width: 536px;
+}
+
+.zayavka-page .group-4 {
+  height: 63px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 536px;
+}
+
+.zayavka-page .overlap-group-2 {
+  height: 63px;
+  position: relative;
+}
+
+.zayavka-page .rectangle-wrapper {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e1e1e1;
+  height: 63px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 536px;
+}
+
+.zayavka-page .rectangle {
+  background-color: #191919;
+  height: 63px;
+  left: 377px;
+  position: relative;
+  top: -1px;
+  width: 158px;
+}
+
+.zayavka-page .group-5 {
+  height: 28px;
+  left: 405px;
+  position: absolute;
+  top: 14px;
+  width: 104px;
+}
+
+.zayavka-page .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.zayavka-page .text-wrapper-4 {
+  color: #808285;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.zayavka-page .group-6 {
+  height: 117px;
+  left: 22px;
+  position: absolute;
+  top: 0;
+  width: 493px;
+}
+
+.zayavka-page .h-1 {
+  color: #ffffff;
+  font-family: "Helvetica-Bold", Helvetica;
+  font-size: 55px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: -0.94px;
+  line-height: 60px;
+  position: absolute;
+  text-align: center;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.zayavka-page .group-7 {
+  height: 50px;
+  left: 127px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.zayavka-page .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 68px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.zayavka-page .img {
+  height: 3px;
+  left: 203px;
+  position: absolute;
+  top: 28px;
+  width: 35px;
+}
+
+.zayavka-page .rectangle-2 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 28px;
+  width: 35px;
+}
