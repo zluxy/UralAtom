@@ -1,0 +1,1 @@
+export { NovostiPage } from "./NovostiPage";
