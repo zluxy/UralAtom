@@ -14,7 +14,7 @@ export default function ZayavkaPage(){
             }}
           >
             <div className="group-2">
-              <img className="email-free-social" alt="Email free social" src="/img/email-free-social-icons-2-2.svg" />
+              <img className="email-free-social" alt="Email free social" src="https://raw.githubusercontent.com/artyr9602/UralAtom/0ba61050cd7dd9170fe5ae8fbba6c34740d329c6/static/img/email-free-social-icons-2-2.svg" />
               <div className="group-3">
                 <div className="overlap-group-wrapper">
                   <div className="div-wrapper">
@@ -40,7 +40,7 @@ export default function ZayavkaPage(){
                   <h1 className="h-1">Отправьте Заявку</h1>
                   <div className="group-7">
                     <div className="text-wrapper-5">Связь</div>
-                    <img className="img" alt="Rectangle" src="/img/rectangle-2889.svg" />
+                    <img className="img" alt="Rectangle" src="../../static/img/rectangle-2889" />
                     <img className="rectangle-2" alt="Rectangle" src="/img/rectangle-2889.svg" />
                   </div>
                 </div>
