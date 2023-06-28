@@ -34111,7 +34111,7 @@ $RefreshReg$(_c, "UralAtomMainPage");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Header":"cxSZo","./style.css":"1cpua","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","reactstrap":"gxWau","react-router-dom":"9xmpe"}],"cxSZo":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Header":"cxSZo","reactstrap":"gxWau","./style.css":"1cpua","react-router-dom":"9xmpe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"cxSZo":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "Header", ()=>(0, _header.Header));
@@ -53385,7 +53385,7 @@ function ONasPage() {
                                     children: [
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
                                             className: "h-1",
-                                            children: "Поднимите свой бизнес на новую высоту"
+                                            children: " свой бизнес на новую высоту"
                                         }, void 0, false, {
                                             fileName: "src/screens/ONasPage/ONasPage.jsx",
                                             lineNumber: 39,
