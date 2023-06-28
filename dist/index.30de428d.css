@@ -1,6 +1,8 @@
 .header {
-  width: 1440px;
+  justify-content: center;
+  width: 100%;
   height: 145px;
+  display: flex;
 }
 
 .header .overlap-group {
@@ -1016,7 +1018,7 @@
 
 .ural-atom-main-page .view-4 {
   width: 379px;
-  height: 755px;
+  height: 703px;
   position: absolute;
   top: 0;
   left: 0;

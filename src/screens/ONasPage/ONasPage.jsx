@@ -36,7 +36,7 @@ export default function ONasPage(){
           </div>
           <div className="text">
             <div className="group">
-              <h1 className="h-1"> свой бизнес на новую высоту</h1>
+              <h1 className="h-1">Поднимите свой бизнес на новую высоту</h1>
               <p className="p">
                 <span className="text-wrapper-2">
                   По отношению к покупателям Промышленная группа «Уралатом» выполняет все действия, необходимые для
