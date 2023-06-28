@@ -2,7 +2,7 @@ import React from "react";
 import { Header } from "../../components/Header";
 import "./style.css";
 
-export const ONasPage = () => {
+export default function ONasPage(){
   return (
     <div className="o-nas-page">
       <div className="div-2">

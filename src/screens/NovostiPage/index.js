@@ -1,1 +1,0 @@
-export { NovostiPage } from "./NovostiPage";

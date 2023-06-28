@@ -1,22 +1,26 @@
 import React, { Component } from 'react';
-import { Route, Routes } from 'react-router-dom';
-import AppRoutes from './AppRoutes';
-import { Layout } from './components/Layout';
-import './custom.css';
+import { Route, Routes, BrowserRouter } from 'react-router-dom';
+import Home from './screens/UralAtomMainPage/UralAtomMainPage';
+import Katalog from './screens/KatalogProduksii/KatalogProduksii';
+import Contacts from './screens/Kontaktnaya/Kontaktnaya';
+import News from './screens/NovostiPage/NovostiPage';
+import About from './screens/ONasPage/ONasPage';
+import Replyes from './screens/ZayavkaPage/ZayavkaPage';
 
-export default class App extends Component {
-  static displayName = App.name;
-
-  render() {
+export default function App() {
     return (
-      <Layout>
-        <Routes>
-          {AppRoutes.map((route, index) => {
-            const { element, ...rest } = route;
-            return <Route key={index} {...rest} element={element} />;
-          })}
-        </Routes>
-      </Layout>
+      <div>
+        <BrowserRouter>
+          <Routes>
+            <Route index element={<Home/>} />
+            <Route path='/home' element={<Home/>} />
+            <Route path='/about' element={<About/>}/>
+            <Route path='/products' element={<Katalog/>}/>
+            <Route path='/news' element={<News/>}/>
+            <Route path='/reply' element={<Replyes/>}/>
+            <Route path='/contacts' element={<Contacts/>}/>
+          </Routes>
+        </BrowserRouter>
+      </div>
     );
-  }
 }
