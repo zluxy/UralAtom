@@ -52527,7 +52527,7 @@ function KatalogProduksii() {
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                             className: "rectangle-2",
                             alt: "Rectangle",
-                            src: "/img/rectangle-37285.png"
+                            src: "/static/img/rectangle-37285.png"
                         }, void 0, false, {
                             fileName: "src/screens/KatalogProduksii/KatalogProduksii.jsx",
                             lineNumber: 22,
@@ -53385,7 +53385,7 @@ function ONasPage() {
                                     children: [
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
                                             className: "h-1",
-                                            children: " свой бизнес на новую высоту"
+                                            children: "Поднимите свой бизнес на новую высоту"
                                         }, void 0, false, {
                                             fileName: "src/screens/ONasPage/ONasPage.jsx",
                                             lineNumber: 39,

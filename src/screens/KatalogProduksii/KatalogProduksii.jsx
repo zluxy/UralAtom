@@ -19,7 +19,7 @@ export default function KatalogProduksii(){
             <img className="img" alt="Frame" src="/img/frame.svg" />
             <img className="frame-2" alt="Frame" src="/img/frame-1.svg" />
           </div>
-          <img className="rectangle-2" alt="Rectangle" src="/img/rectangle-37285.png" />
+          <img className="rectangle-2" alt="Rectangle" src="/static/img/rectangle-37285.png" />
           <img className="rectangle-3" alt="Rectangle" src="/img/rectangle-37286.png" />
           <div className="text-wrapper-2">Компрессорное оборудование</div>
           <div className="text-wrapper-3">Криогенное оборудование</div>
