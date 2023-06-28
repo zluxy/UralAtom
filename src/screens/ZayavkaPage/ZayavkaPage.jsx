@@ -2,7 +2,7 @@ import React from "react";
 import { Header } from "../../components/Header";
 import "./style.css";
 
-export const ZayavkaPage = () => {
+export default function ZayavkaPage(){
   return (
     <div className="zayavka-page">
       <div className="div-2">

@@ -1,8 +1,10 @@
 import React from "react";
 import { Header } from "../../components/Header";
+import {Nav, NavItem, NavLink} from "reactstrap";
 import "./style.css";
+import { Link } from "react-router-dom";
 
-export const UralAtomMainPage = () => {
+export default function UralAtomMainPage(){
   return (
     <div className="ural-atom-main-page">
       <div className="div-2">
@@ -40,10 +42,14 @@ export const UralAtomMainPage = () => {
                   работающих в сфере энергетики и нефтегазодобычи.
                 </p>
                 <h1 className="h-1">Стань Лучшим Вместе С Нами!</h1>
-                <div className="button">
-                  <div className="text-wrapper-3">Читать больше</div>
-                  <div className="text-wrapper-4">arrow-right</div>
-                </div>
+                <Nav>
+                  <NavLink tag={Link} to="/about">
+                    <div className="button">
+                      <div className="text-wrapper-3">Читать больше</div>
+                      <div className="text-wrapper-4">arrow-right</div>
+                    </div>
+                  </NavLink>
+                </Nav>
                 <div className="text-wrapper-5">Лучшая компания в сфере</div>
                 <div className="text-wrapper-6">Более 20-ти постоянных клиентов</div>
                 <img
@@ -174,10 +180,14 @@ export const UralAtomMainPage = () => {
                     <br />
                     Криогенное оборудование
                   </div>
-                  <div className="button-4">
-                    <div className="text-wrapper-24">Узнать больше</div>
-                    <div className="text-wrapper-25">arrow-right</div>
-                  </div>
+                  <Nav>
+                    <NavLink tag={Link} to="/products">
+                      <div className="button-4">
+                        <div className="text-wrapper-24">Узнать больше</div>
+                        <div className="text-wrapper-25">arrow-right</div>
+                      </div>
+                    </NavLink>
+                  </Nav>
                 </div>
               </div>
             </div>

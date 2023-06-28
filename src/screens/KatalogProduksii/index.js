@@ -1,1 +1,0 @@
-export { KatalogProduksii } from "./KatalogProduksii";
