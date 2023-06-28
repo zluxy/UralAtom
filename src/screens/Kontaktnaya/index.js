@@ -1,1 +1,0 @@
-export { Kontaktnaya } from "./Kontaktnaya";

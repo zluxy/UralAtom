@@ -2,7 +2,7 @@ import React from "react";
 import { Header } from "../../components/Header";
 import "./style.css";
 
-export const KatalogProduksii = () => {
+export default function KatalogProduksii(){
   return (
     <div className="katalog-produksii">
       <div className="div-2">

@@ -2,7 +2,7 @@ import React from "react";
 import { Header } from "../../components/Header";
 import "./style.css";
 
-export const NovostiPage = () => {
+export default function NovostiPage(){
   return (
     <div className="novosti-page">
       <div className="div-2">
