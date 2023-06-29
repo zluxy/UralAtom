@@ -13,7 +13,7 @@ export default function NovostiPage(){
             </div>
             <div className="overlap-wrapper">
               <div className="overlap-2">
-                <img className="rectangle" alt="Rectangle" src="/img/rectangle-2285.png" />
+                <img className="rectangle" alt="Rectangle" src="https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2285.png?raw=true" />
                 <div className="rectangle-2" />
                 <div className="component">
                   <div className="text-wrapper-2">comments</div>
@@ -36,7 +36,7 @@ export default function NovostiPage(){
             </div>
             <div className="div-wrapper">
               <div className="overlap-3">
-                <img className="img" alt="Rectangle" src="/img/rectangle-2921-1.png" />
+                <img className="img" alt="Rectangle" src="https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2921-1.png?raw=true" />
                 <div className="rectangle-4" />
                 <div className="component-3">
                   <div className="text-wrapper-8">comments</div>
@@ -59,7 +59,7 @@ export default function NovostiPage(){
             </div>
             <div className="element-6">
               <div className="overlap-4">
-                <img className="rectangle-6" alt="Rectangle" src="/img/rectangle-2921.png" />
+                <img className="rectangle-6" alt="Rectangle" src="https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2921.png?raw=true" />
                 <div className="rectangle-7" />
                 <div className="component-5">
                   <div className="text-wrapper-14">comments</div>
