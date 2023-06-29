@@ -33392,7 +33392,7 @@ function UralAtomMainPage() {
                                         children: [
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                                 className: "text-wrapper-12",
-                                                children: "полный спектр предоставляемых услуг"
+                                                children: "Полный спектр предоставляемых услуг"
                                             }, void 0, false, {
                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
                                                 lineNumber: 109,
@@ -33478,27 +33478,41 @@ function UralAtomMainPage() {
                                             lineNumber: 128,
                                             columnNumber: 17
                                         }, this),
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                            className: "button-2",
-                                            children: [
-                                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                    className: "text-wrapper-16",
-                                                    children: "Узнать больше"
-                                                }, void 0, false, {
-                                                    fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                    lineNumber: 136,
-                                                    columnNumber: 19
-                                                }, this),
-                                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                    className: "text-wrapper-17",
-                                                    children: "arrow-right"
-                                                }, void 0, false, {
+                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactstrap.Nav), {
+                                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactstrap.NavLink), {
+                                                tag: (0, _reactRouterDom.Link),
+                                                to: "/reply",
+                                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                    className: "button-2",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                            className: "text-wrapper-16",
+                                                            children: "Узнать больше"
+                                                        }, void 0, false, {
+                                                            fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
+                                                            lineNumber: 138,
+                                                            columnNumber: 23
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                            className: "text-wrapper-17",
+                                                            children: "arrow-right"
+                                                        }, void 0, false, {
+                                                            fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
+                                                            lineNumber: 139,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
                                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
                                                     lineNumber: 137,
-                                                    columnNumber: 19
+                                                    columnNumber: 21
                                                 }, this)
-                                            ]
-                                        }, void 0, true, {
+                                            }, void 0, false, {
+                                                fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
+                                                lineNumber: 136,
+                                                columnNumber: 19
+                                            }, this)
+                                        }, void 0, false, {
                                             fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
                                             lineNumber: 135,
                                             columnNumber: 17
@@ -33527,12 +33541,12 @@ function UralAtomMainPage() {
                                                 src: "https://generation-sessions.s3.amazonaws.com/dadeebc3682d51bc898173f141933a92/img/code-optimisation---free-computer-icons-2-23.svg"
                                             }, void 0, false, {
                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                lineNumber: 144,
+                                                lineNumber: 148,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                            lineNumber: 143,
+                                            lineNumber: 147,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33540,7 +33554,7 @@ function UralAtomMainPage() {
                                             children: "Услуги"
                                         }, void 0, false, {
                                             fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                            lineNumber: 150,
+                                            lineNumber: 154,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33549,20 +33563,20 @@ function UralAtomMainPage() {
                                                 "Монтаж и пусконаладка",
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                    lineNumber: 153,
+                                                    lineNumber: 157,
                                                     columnNumber: 19
                                                 }, this),
                                                 "Техобслуживание",
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                    lineNumber: 155,
+                                                    lineNumber: 159,
                                                     columnNumber: 19
                                                 }, this),
                                                 "Утилизация"
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                            lineNumber: 151,
+                                            lineNumber: 155,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33573,7 +33587,7 @@ function UralAtomMainPage() {
                                                     children: "Узнать больше"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                    lineNumber: 159,
+                                                    lineNumber: 163,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33581,24 +33595,24 @@ function UralAtomMainPage() {
                                                     children: "arrow-right"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                    lineNumber: 160,
+                                                    lineNumber: 164,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                            lineNumber: 158,
+                                            lineNumber: 162,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                    lineNumber: 142,
+                                    lineNumber: 146,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                lineNumber: 141,
+                                lineNumber: 145,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33617,12 +33631,12 @@ function UralAtomMainPage() {
                                                             className: "code-optimisation-3"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                            lineNumber: 169,
+                                                            lineNumber: 173,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                        lineNumber: 168,
+                                                        lineNumber: 172,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -33631,13 +33645,13 @@ function UralAtomMainPage() {
                                                         src: "https://generation-sessions.s3.amazonaws.com/dadeebc3682d51bc898173f141933a92/img/group-15005@2x.png"
                                                     }, void 0, false, {
                                                         fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                        lineNumber: 171,
+                                                        lineNumber: 175,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                lineNumber: 167,
+                                                lineNumber: 171,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33645,7 +33659,7 @@ function UralAtomMainPage() {
                                                 children: "Каталог продукции"
                                             }, void 0, false, {
                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                lineNumber: 177,
+                                                lineNumber: 181,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33654,14 +33668,14 @@ function UralAtomMainPage() {
                                                     "Компрессорное оборудование",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                        lineNumber: 180,
+                                                        lineNumber: 184,
                                                         columnNumber: 21
                                                     }, this),
                                                     "Криогенное оборудование"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                lineNumber: 178,
+                                                lineNumber: 182,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactstrap.Nav), {
@@ -33676,7 +33690,7 @@ function UralAtomMainPage() {
                                                                 children: "Узнать больше"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                                lineNumber: 186,
+                                                                lineNumber: 190,
                                                                 columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33684,39 +33698,39 @@ function UralAtomMainPage() {
                                                                 children: "arrow-right"
                                                             }, void 0, false, {
                                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                                lineNumber: 187,
+                                                                lineNumber: 191,
                                                                 columnNumber: 25
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                        lineNumber: 185,
+                                                        lineNumber: 189,
                                                         columnNumber: 23
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                    lineNumber: 184,
+                                                    lineNumber: 188,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                lineNumber: 183,
+                                                lineNumber: 187,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                        lineNumber: 166,
+                                        lineNumber: 170,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                    lineNumber: 165,
+                                    lineNumber: 169,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                lineNumber: 164,
+                                lineNumber: 168,
                                 columnNumber: 13
                             }, this)
                         ]
@@ -33742,14 +33756,14 @@ function UralAtomMainPage() {
                                     src: "https://generation-sessions.s3.amazonaws.com/dadeebc3682d51bc898173f141933a92/img/mask-group-2@2x.png"
                                 }, void 0, false, {
                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                    lineNumber: 198,
+                                    lineNumber: 202,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                     className: "frame-3"
                                 }, void 0, false, {
                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                    lineNumber: 203,
+                                    lineNumber: 207,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33759,12 +33773,12 @@ function UralAtomMainPage() {
                                             className: "text-wrapper-26",
                                             children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                lineNumber: 206,
+                                                lineNumber: 210,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                            lineNumber: 205,
+                                            lineNumber: 209,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -33773,25 +33787,25 @@ function UralAtomMainPage() {
                                                 "Продление срока службы",
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                    lineNumber: 210,
+                                                    lineNumber: 214,
                                                     columnNumber: 17
                                                 }, this),
                                                 "Гарантия качества",
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                    lineNumber: 212,
+                                                    lineNumber: 216,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                            lineNumber: 208,
+                                            lineNumber: 212,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                    lineNumber: 204,
+                                    lineNumber: 208,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33799,21 +33813,29 @@ function UralAtomMainPage() {
                                     children: "Своевременный ремонт оборудования"
                                 }, void 0, false, {
                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                    lineNumber: 215,
+                                    lineNumber: 219,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                     className: "text-wrapper-29",
-                                    children: "Обслуживание и ремонт"
-                                }, void 0, false, {
+                                    children: [
+                                        "Обслуживание",
+                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
+                                            fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
+                                            lineNumber: 220,
+                                            columnNumber: 58
+                                        }, this),
+                                        "и ремонт"
+                                    ]
+                                }, void 0, true, {
                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                    lineNumber: 216,
+                                    lineNumber: 220,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                            lineNumber: 197,
+                            lineNumber: 201,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33830,14 +33852,14 @@ function UralAtomMainPage() {
                                             "Криогенное",
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                lineNumber: 228,
+                                                lineNumber: 232,
                                                 columnNumber: 17
                                             }, this),
                                             "оборудование"
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                        lineNumber: 226,
+                                        lineNumber: 230,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33848,7 +33870,7 @@ function UralAtomMainPage() {
                                                 children: "Множество различных криогенных установок"
                                             }, void 0, false, {
                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                lineNumber: 232,
+                                                lineNumber: 236,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -33860,18 +33882,18 @@ function UralAtomMainPage() {
                                                             "Воздухоразделительные установки (ВРУ)",
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                                lineNumber: 236,
+                                                                lineNumber: 240,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                                lineNumber: 237,
+                                                                lineNumber: 241,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                        lineNumber: 234,
+                                                        lineNumber: 238,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -33883,35 +33905,35 @@ function UralAtomMainPage() {
                                                             children: "Газификаторы и газификационные установки"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                            lineNumber: 240,
+                                                            lineNumber: 244,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                        lineNumber: 239,
+                                                        lineNumber: 243,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                lineNumber: 233,
+                                                lineNumber: 237,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                        lineNumber: 231,
+                                        lineNumber: 235,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                lineNumber: 219,
+                                lineNumber: 223,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                            lineNumber: 218,
+                            lineNumber: 222,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33931,17 +33953,17 @@ function UralAtomMainPage() {
                                                     className: "text-wrapper-34",
                                                     children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                        lineNumber: 257,
+                                                        lineNumber: 261,
                                                         columnNumber: 21
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                    lineNumber: 256,
+                                                    lineNumber: 260,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                lineNumber: 255,
+                                                lineNumber: 259,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33950,17 +33972,17 @@ function UralAtomMainPage() {
                                                     className: "text-wrapper-35",
                                                     children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                        lineNumber: 262,
+                                                        lineNumber: 266,
                                                         columnNumber: 21
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                    lineNumber: 261,
+                                                    lineNumber: 265,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                lineNumber: 260,
+                                                lineNumber: 264,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33971,18 +33993,18 @@ function UralAtomMainPage() {
                                                         "Вся продукция делится на три модельных ряда:",
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                             fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                            lineNumber: 268,
+                                                            lineNumber: 272,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                    lineNumber: 266,
+                                                    lineNumber: 270,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                lineNumber: 265,
+                                                lineNumber: 269,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -33991,17 +34013,17 @@ function UralAtomMainPage() {
                                                     className: "text-wrapper-37",
                                                     children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                                         fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                        lineNumber: 273,
+                                                        lineNumber: 277,
                                                         columnNumber: 21
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                    lineNumber: 272,
+                                                    lineNumber: 276,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                lineNumber: 271,
+                                                lineNumber: 275,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34011,43 +34033,51 @@ function UralAtomMainPage() {
                                                     children: "компрессорные агрегаты; передвижные компрессорные станции и компрессорные установки в модульном исполнении"
                                                 }, void 0, false, {
                                                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                    lineNumber: 277,
+                                                    lineNumber: 281,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                                lineNumber: 276,
+                                                lineNumber: 280,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                        lineNumber: 254,
+                                        lineNumber: 258,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                         className: "text-wrapper-39",
-                                        children: "Компрессорное оборудование"
-                                    }, void 0, false, {
+                                        children: [
+                                            "Компрессорное",
+                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
+                                                fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
+                                                lineNumber: 287,
+                                                columnNumber: 61
+                                            }, this),
+                                            "оборудование"
+                                        ]
+                                    }, void 0, true, {
                                         fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                        lineNumber: 283,
+                                        lineNumber: 287,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                                lineNumber: 247,
+                                lineNumber: 251,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                            lineNumber: 246,
+                            lineNumber: 250,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                    lineNumber: 196,
+                    lineNumber: 200,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34062,17 +34092,17 @@ function UralAtomMainPage() {
                             children: "Поставка, обслуживание и ремонт компрессоров и криогенного оборудования"
                         }, void 0, false, {
                             fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                            lineNumber: 295,
+                            lineNumber: 299,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                        lineNumber: 288,
+                        lineNumber: 292,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                    lineNumber: 287,
+                    lineNumber: 291,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _header.Header), {
@@ -34087,7 +34117,7 @@ function UralAtomMainPage() {
                     }
                 }, void 0, false, {
                     fileName: "src/screens/UralAtomMainPage/UralAtomMainPage.jsx",
-                    lineNumber: 298,
+                    lineNumber: 302,
                     columnNumber: 9
                 }, this)
             ]
@@ -34111,7 +34141,7 @@ $RefreshReg$(_c, "UralAtomMainPage");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Header":"cxSZo","./style.css":"1cpua","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","reactstrap":"gxWau","react-router-dom":"9xmpe"}],"cxSZo":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Header":"cxSZo","reactstrap":"gxWau","./style.css":"1cpua","react-router-dom":"9xmpe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"cxSZo":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "Header", ()=>(0, _header.Header));
@@ -52503,7 +52533,7 @@ function KatalogProduksii() {
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                     className: "img",
                                     alt: "Frame",
-                                    src: "/img/frame.svg"
+                                    src: "https://raw.githubusercontent.com/artyr9602/UralAtom/d7880e4865e90d0041ff4d68e186f6558cfed71a/static/img/frame.svg"
                                 }, void 0, false, {
                                     fileName: "src/screens/KatalogProduksii/KatalogProduksii.jsx",
                                     lineNumber: 19,
@@ -52512,7 +52542,7 @@ function KatalogProduksii() {
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                     className: "frame-2",
                                     alt: "Frame",
-                                    src: "/img/frame-1.svg"
+                                    src: "https://raw.githubusercontent.com/artyr9602/UralAtom/d7880e4865e90d0041ff4d68e186f6558cfed71a/static/img/frame-1.svg"
                                 }, void 0, false, {
                                     fileName: "src/screens/KatalogProduksii/KatalogProduksii.jsx",
                                     lineNumber: 20,
@@ -52527,7 +52557,7 @@ function KatalogProduksii() {
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                             className: "rectangle-2",
                             alt: "Rectangle",
-                            src: "/img/rectangle-37285.png"
+                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-37285.png?raw=true"
                         }, void 0, false, {
                             fileName: "src/screens/KatalogProduksii/KatalogProduksii.jsx",
                             lineNumber: 22,
@@ -52536,7 +52566,7 @@ function KatalogProduksii() {
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                             className: "rectangle-3",
                             alt: "Rectangle",
-                            src: "/img/rectangle-37286.png"
+                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-37286.png?raw=true"
                         }, void 0, false, {
                             fileName: "src/screens/KatalogProduksii/KatalogProduksii.jsx",
                             lineNumber: 23,
@@ -52632,7 +52662,7 @@ function Kontaktnaya() {
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                 className: "rectangle",
                                 alt: "Rectangle",
-                                src: "/img/rectangle-2850.png"
+                                src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2850.png?raw=true"
                             }, void 0, false, {
                                 fileName: "src/screens/Kontaktnaya/Kontaktnaya.jsx",
                                 lineNumber: 11,
@@ -52653,7 +52683,7 @@ function Kontaktnaya() {
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                             className: "group",
                                             alt: "Group",
-                                            src: "/img/group-8581.png"
+                                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/group-8581.png?raw=true"
                                         }, void 0, false, {
                                             fileName: "src/screens/Kontaktnaya/Kontaktnaya.jsx",
                                             lineNumber: 15,
@@ -52662,7 +52692,7 @@ function Kontaktnaya() {
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                             className: "img",
                                             alt: "Rectangle",
-                                            src: "/img/rectangle-2717.png"
+                                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2717.png?raw=true"
                                         }, void 0, false, {
                                             fileName: "src/screens/Kontaktnaya/Kontaktnaya.jsx",
                                             lineNumber: 16,
@@ -52671,7 +52701,7 @@ function Kontaktnaya() {
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                             className: "rectangle-3",
                                             alt: "Rectangle",
-                                            src: "/img/rectangle-2716.png"
+                                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2716.png?raw=true"
                                         }, void 0, false, {
                                             fileName: "src/screens/Kontaktnaya/Kontaktnaya.jsx",
                                             lineNumber: 17,
@@ -52873,7 +52903,7 @@ function NovostiPage() {
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                             className: "rectangle",
                                             alt: "Rectangle",
-                                            src: "/img/rectangle-2285.png"
+                                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2285.png?raw=true"
                                         }, void 0, false, {
                                             fileName: "src/screens/NovostiPage/NovostiPage.jsx",
                                             lineNumber: 16,
@@ -53001,7 +53031,7 @@ function NovostiPage() {
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                             className: "img",
                                             alt: "Rectangle",
-                                            src: "/img/rectangle-2921-1.png"
+                                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2921-1.png?raw=true"
                                         }, void 0, false, {
                                             fileName: "src/screens/NovostiPage/NovostiPage.jsx",
                                             lineNumber: 39,
@@ -53129,7 +53159,7 @@ function NovostiPage() {
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                             className: "rectangle-6",
                                             alt: "Rectangle",
-                                            src: "/img/rectangle-2921.png"
+                                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2921.png?raw=true"
                                         }, void 0, false, {
                                             fileName: "src/screens/NovostiPage/NovostiPage.jsx",
                                             lineNumber: 62,
@@ -53549,7 +53579,7 @@ function ZayavkaPage() {
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                     className: "email-free-social",
                                     alt: "Email free social",
-                                    src: "/img/email-free-social-icons-2-2.svg"
+                                    src: "https://raw.githubusercontent.com/artyr9602/UralAtom/0ba61050cd7dd9170fe5ae8fbba6c34740d329c6/static/img/email-free-social-icons-2-2.svg"
                                 }, void 0, false, {
                                     fileName: "src/screens/ZayavkaPage/ZayavkaPage.jsx",
                                     lineNumber: 17,
@@ -53674,7 +53704,7 @@ function ZayavkaPage() {
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                                             className: "img",
                                                             alt: "Rectangle",
-                                                            src: "/img/rectangle-2889.svg"
+                                                            src: "../../static/img/rectangle-2889"
                                                         }, void 0, false, {
                                                             fileName: "src/screens/ZayavkaPage/ZayavkaPage.jsx",
                                                             lineNumber: 43,

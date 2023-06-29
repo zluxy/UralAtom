@@ -16,11 +16,11 @@ export default function KatalogProduksii(){
               установок, газификаторов, а также всевозможных емкостей для хранения криопродуктов. Обратившись в нашу
               компанию, вы получите исчерпывающие консультации по выбору криогенного оборудования и работе с ним
             </p>
-            <img className="img" alt="Frame" src="/img/frame.svg" />
-            <img className="frame-2" alt="Frame" src="/img/frame-1.svg" />
+            <img className="img" alt="Frame" src="https://raw.githubusercontent.com/artyr9602/UralAtom/d7880e4865e90d0041ff4d68e186f6558cfed71a/static/img/frame.svg" />
+            <img className="frame-2" alt="Frame" src="https://raw.githubusercontent.com/artyr9602/UralAtom/d7880e4865e90d0041ff4d68e186f6558cfed71a/static/img/frame-1.svg" />
           </div>
-          <img className="rectangle-2" alt="Rectangle" src="/img/rectangle-37285.png" />
-          <img className="rectangle-3" alt="Rectangle" src="/img/rectangle-37286.png" />
+          <img className="rectangle-2" alt="Rectangle" src="https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-37285.png?raw=true" />
+          <img className="rectangle-3" alt="Rectangle" src="https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-37286.png?raw=true" />
           <div className="text-wrapper-2">Компрессорное оборудование</div>
           <div className="text-wrapper-3">Криогенное оборудование</div>
         </div>

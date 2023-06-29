@@ -106,7 +106,7 @@ export default function UralAtomMainPage(){
           <div className="service">
             <div className="overlap-5">
               <div className="text-2">
-                <div className="text-wrapper-12">полный спектр предоставляемых услуг</div>
+                <div className="text-wrapper-12">Полный спектр предоставляемых услуг</div>
                 <p className="text-wrapper-13">Инновационные решения для эффективного производства и обслуживания</p>
               </div>
               <img
@@ -132,10 +132,14 @@ export default function UralAtomMainPage(){
                   <br />
                   Таблица сроков ТО и ремонтов
                 </p>
-                <div className="button-2">
-                  <div className="text-wrapper-16">Узнать больше</div>
-                  <div className="text-wrapper-17">arrow-right</div>
-                </div>
+                <Nav>
+                  <NavLink tag={Link} to="/reply">
+                    <div className="button-2">
+                      <div className="text-wrapper-16">Узнать больше</div>
+                      <div className="text-wrapper-17">arrow-right</div>
+                    </div>
+                  </NavLink>
+                </Nav>
               </div>
             </div>
             <div className="group-wrapper">
@@ -213,7 +217,7 @@ export default function UralAtomMainPage(){
               </span>
             </div>
             <div className="text-wrapper-28">Своевременный ремонт оборудования</div>
-            <div className="text-wrapper-29">Обслуживание и ремонт</div>
+            <div className="text-wrapper-29">Обслуживание<br/>и ремонт</div>
           </div>
           <div className="view-2">
             <div
@@ -280,7 +284,7 @@ export default function UralAtomMainPage(){
                   </span>
                 </div>
               </div>
-              <div className="text-wrapper-39">Компрессорное оборудование</div>
+              <div className="text-wrapper-39">Компрессорное<br/>оборудование</div>
             </div>
           </div>
         </div>
