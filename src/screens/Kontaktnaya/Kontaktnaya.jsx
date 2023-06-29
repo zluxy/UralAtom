@@ -8,13 +8,13 @@ export default function Kontaktnaya(){
       <div className="div-2">
         <div className="about">
           <div className="overlap">
-            <img className="rectangle" alt="Rectangle" src="/img/rectangle-2850.png" />
+            <img className="rectangle" alt="Rectangle" src="https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2850.png?raw=true" />
             <div className="rectangle-2" />
             <div className="about-design">
               <div className="overlap-group-2">
-                <img className="group" alt="Group" src="/img/group-8581.png" />
-                <img className="img" alt="Rectangle" src="/img/rectangle-2717.png" />
-                <img className="rectangle-3" alt="Rectangle" src="/img/rectangle-2716.png" />
+                <img className="group" alt="Group" src="https://github.com/artyr9602/UralAtom/blob/main/static/img/group-8581.png?raw=true" />
+                <img className="img" alt="Rectangle" src="https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2717.png?raw=true" />
+                <img className="rectangle-3" alt="Rectangle" src="https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2716.png?raw=true" />
                 <div className="rectangle-4" />
                 <div className="element-6">25</div>
                 <div className="years-of-experience">Лет опыта</div>

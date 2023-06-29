@@ -34141,7 +34141,7 @@ $RefreshReg$(_c, "UralAtomMainPage");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Header":"cxSZo","./style.css":"1cpua","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","reactstrap":"gxWau","react-router-dom":"9xmpe"}],"cxSZo":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../components/Header":"cxSZo","reactstrap":"gxWau","./style.css":"1cpua","react-router-dom":"9xmpe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"cxSZo":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "Header", ()=>(0, _header.Header));
@@ -52533,7 +52533,7 @@ function KatalogProduksii() {
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                     className: "img",
                                     alt: "Frame",
-                                    src: "/img/frame.svg"
+                                    src: "https://raw.githubusercontent.com/artyr9602/UralAtom/d7880e4865e90d0041ff4d68e186f6558cfed71a/static/img/frame.svg"
                                 }, void 0, false, {
                                     fileName: "src/screens/KatalogProduksii/KatalogProduksii.jsx",
                                     lineNumber: 19,
@@ -52542,7 +52542,7 @@ function KatalogProduksii() {
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                     className: "frame-2",
                                     alt: "Frame",
-                                    src: "/img/frame-1.svg"
+                                    src: "https://raw.githubusercontent.com/artyr9602/UralAtom/d7880e4865e90d0041ff4d68e186f6558cfed71a/static/img/frame-1.svg"
                                 }, void 0, false, {
                                     fileName: "src/screens/KatalogProduksii/KatalogProduksii.jsx",
                                     lineNumber: 20,
@@ -52557,7 +52557,7 @@ function KatalogProduksii() {
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                             className: "rectangle-2",
                             alt: "Rectangle",
-                            src: "/static/img/rectangle-37285.png"
+                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-37285.png?raw=true"
                         }, void 0, false, {
                             fileName: "src/screens/KatalogProduksii/KatalogProduksii.jsx",
                             lineNumber: 22,
@@ -52566,7 +52566,7 @@ function KatalogProduksii() {
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                             className: "rectangle-3",
                             alt: "Rectangle",
-                            src: "/img/rectangle-37286.png"
+                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-37286.png?raw=true"
                         }, void 0, false, {
                             fileName: "src/screens/KatalogProduksii/KatalogProduksii.jsx",
                             lineNumber: 23,
@@ -52662,7 +52662,7 @@ function Kontaktnaya() {
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                 className: "rectangle",
                                 alt: "Rectangle",
-                                src: "/img/rectangle-2850.png"
+                                src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2850.png?raw=true"
                             }, void 0, false, {
                                 fileName: "src/screens/Kontaktnaya/Kontaktnaya.jsx",
                                 lineNumber: 11,
@@ -52683,7 +52683,7 @@ function Kontaktnaya() {
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                             className: "group",
                                             alt: "Group",
-                                            src: "/img/group-8581.png"
+                                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/group-8581.png?raw=true"
                                         }, void 0, false, {
                                             fileName: "src/screens/Kontaktnaya/Kontaktnaya.jsx",
                                             lineNumber: 15,
@@ -52692,7 +52692,7 @@ function Kontaktnaya() {
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                             className: "img",
                                             alt: "Rectangle",
-                                            src: "/img/rectangle-2717.png"
+                                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2717.png?raw=true"
                                         }, void 0, false, {
                                             fileName: "src/screens/Kontaktnaya/Kontaktnaya.jsx",
                                             lineNumber: 16,
@@ -52701,7 +52701,7 @@ function Kontaktnaya() {
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                             className: "rectangle-3",
                                             alt: "Rectangle",
-                                            src: "/img/rectangle-2716.png"
+                                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2716.png?raw=true"
                                         }, void 0, false, {
                                             fileName: "src/screens/Kontaktnaya/Kontaktnaya.jsx",
                                             lineNumber: 17,
@@ -52903,7 +52903,7 @@ function NovostiPage() {
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                             className: "rectangle",
                                             alt: "Rectangle",
-                                            src: "/img/rectangle-2285.png"
+                                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2285.png?raw=true"
                                         }, void 0, false, {
                                             fileName: "src/screens/NovostiPage/NovostiPage.jsx",
                                             lineNumber: 16,
@@ -53031,7 +53031,7 @@ function NovostiPage() {
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                             className: "img",
                                             alt: "Rectangle",
-                                            src: "/img/rectangle-2921-1.png"
+                                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2921-1.png?raw=true"
                                         }, void 0, false, {
                                             fileName: "src/screens/NovostiPage/NovostiPage.jsx",
                                             lineNumber: 39,
@@ -53159,7 +53159,7 @@ function NovostiPage() {
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                             className: "rectangle-6",
                                             alt: "Rectangle",
-                                            src: "/img/rectangle-2921.png"
+                                            src: "https://github.com/artyr9602/UralAtom/blob/main/static/img/rectangle-2921.png?raw=true"
                                         }, void 0, false, {
                                             fileName: "src/screens/NovostiPage/NovostiPage.jsx",
                                             lineNumber: 62,
