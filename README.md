@@ -2,6 +2,13 @@
 
 Welcome! This is code of Ural Atom site 
 
+## Screenshots
+<img width="1470" alt="image" src="https://github.com/zluxy/zluxiaweather/blob/main/Resources/screen.png">
+
+<img width="1370" alt="image" src="https://github.com/zluxy/zluxiaweather/blob/main/iconsdemo1.png">
+
+
+
 ## Getting started
 
 > **Prerequisites:**
