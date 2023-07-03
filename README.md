@@ -1,10 +1,14 @@
-
-Welcome! This is code of Ural Atom site 
+## Ural Atom project
+Hi! This is code of Ural Atom site. 
 
 ## Screenshots
-<img width="1470" alt="image" src="screenshots/Katalog Produksii - page.png">
 
-<img width="1370" alt="image" src="https://github.com/zluxy/zluxiaweather/blob/main/iconsdemo1.png">
+<img width="1470" alt="image" src="screenshots/Ural Atom - main page.png">
+<img width="1470" alt="image" src="screenshots/O nas - page.png">
+<img width="1470" alt="image" src="screenshots/Novosti - page.png">
+<img width="1470" alt="image" src="screenshots/Katalog Produksii - page.png">
+<img width="1470" alt="image" src="screenshots/Kontaktnaya informacia - page.png">
+<img width="1470" alt="image" src="screenshots/Zayavka - page.png">
 
 
 
