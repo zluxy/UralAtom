@@ -1,9 +1,9 @@
-# Ural Atom Project
+![image](https://github.com/zluxy/UralAtom/assets/48005934/cca46252-ec2b-4b9b-a92f-a5e0d3488dcc)# Ural Atom Project
 
 Welcome! This is code of Ural Atom site 
 
 ## Screenshots
-<img width="1470" alt="image" src="https://github.com/zluxy/zluxiaweather/blob/main/Resources/screen.png">
+<img width="1470" alt="image" src="screenshots/Katalog Produksii - page.png">
 
 <img width="1370" alt="image" src="https://github.com/zluxy/zluxiaweather/blob/main/iconsdemo1.png">
 
